@@ -1,0 +1,37 @@
+h1
+{
+    margin-left: 12%;
+}
+h2
+{
+    margin-left: 12%;
+}
+p
+{
+    margin-left: 12%;
+}
+body{
+    display: flex;
+}
+.nav
+{
+    margin-top: 5px;
+    background-color:white;
+}
+button
+{
+    text-align: center;
+    margin-top: px;
+    width: 120%;
+    height: 15%;
+    background-color:pink;
+    color: black;
+    border-color: #fd5da8;
+    border-radius: 20px;
+    
+
+}
+.data
+{
+    margin-left: 40px;
+}
